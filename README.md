@@ -6,6 +6,12 @@
    - > https://sub-speed.github.io/
 
    - > https://prime-deepss.github.io
+
+   - > https://prime-deepss.github.io/emirp/
+
+   - > https://sub-speed.glitch.me/today/
+
+   - > https://sub-speed.glitch.me/
 - Minesweeper(縦9, 横9)で最高記録9秒。化け物かよ
 - Discord: `ﷵDeepssssssssssS_Sssssssssspeedﷵ#2681`
 

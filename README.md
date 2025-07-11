@@ -4,3 +4,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vue,nuxt,discordjs,figma,vscode" alt="skillicons.dev"></a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=driplase&theme=algolia&show_icons=true" alt="driplase's GitHub stats"></a>
 </p>
+
+<hr />
+
+making new version of <a href="https://j0.si">j0.si</a>...
